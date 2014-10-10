@@ -1,11 +1,11 @@
-/*
-UVG
-Algoritmos y Estructuras de Datos - 2011
-Hoja de trabajo 7 
-Autor: Eduardo Castellanos
-
-Descripción: Word. Clase para almacenar las palabras junto con su tipo. 
-*/
+/**
+ * @author Pablo Argueta, Carnet: 13028
+ * @author Héctor Möller, Carnet: 09002
+ * @author Brandon Mendez, Carnet: 13087
+ * 
+ * Descripcion: Clase para generar objetos de tipo Word, con la palabra y el tipo de palabra
+ * Código proporcionado en clase
+ */
 class Word implements Comparable<Word> {
 	private String word;
 	private String type;

@@ -1,11 +1,11 @@
-/*
-UVG
-Algoritmos y Estructuras de Datos - 2011
-Hoja de trabajo 7 
-Autor: Eduardo Castellanos
-
-Descripción: WordSet. Interfaz para las implementaciones de clases que almacenarán palabras.
-*/
+/**
+ * @author Pablo Argueta, Carnet: 13028
+ * @author Héctor Möller, Carnet: 09002
+ * @author Brandon Mendez, Carnet: 13087
+ * 
+ * Descripcion: Interfaz para las implementaciones de clasificacion de palabras
+ * Código proporcionado en clase
+ */
 public interface WordSet {
 
 	public void add(Word wordObject);
